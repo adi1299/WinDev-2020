@@ -1,0 +1,2 @@
+#include"MyBitmap.h"
+MYBITMAP BITMAP Black_World.bmp
